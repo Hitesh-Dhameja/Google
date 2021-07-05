@@ -10,12 +10,12 @@ function Home() {
         <div>
             <div className="home__header">
                 <div className="home__headerLeft">
-                    <Link to="/about">About</Link>
-                    <Link to="/store">Store</Link>
+                    <Link to="/Google/about">About</Link>
+                    <Link to="/Google/store">Store</Link>
                 </div>
                 <div className="home__headerRight">
-                    <Link to="/gmail">Gmail</Link>
-                    <Link to="/images">Images</Link>
+                    <Link to="/Google/gmail">Gmail</Link>
+                    <Link to="/Google/images">Images</Link>
                     <AppsIcon />
                     <Avatar />
                 </div>
